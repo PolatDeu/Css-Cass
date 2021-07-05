@@ -1,4 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@500&family=Open+Sans:wght@300&display=swap");
 body {
   background-color: #d61e1e;
+}
+
+/** 
+
+font-family: 'Changa', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+**/
+/** 
+General Settings
+
+**/
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
 }
 /*# sourceMappingURL=styles.css.map */
